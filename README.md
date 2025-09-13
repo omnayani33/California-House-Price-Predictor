@@ -1,4 +1,4 @@
-#🏡 California House Price Predictor (XGBoost + Tkinter GUI)
+🏡 California House Price Predictor (XGBoost + Tkinter GUI)
 
 This project is a desktop application that predicts house prices in California using the XGBoost Regressor model trained on the California Housing dataset.
 It features a Tkinter-based GUI where users can input housing attributes, view sample dataset entries, check model accuracy metrics, and get real-time predictions.
